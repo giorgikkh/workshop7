@@ -1,0 +1,22 @@
+.background{width: 100%;}
+
+
+.parent{    width: 75%;
+    height: 65px;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.consulting{background-color: rgb(59, 59, 197);
+    box-sizing: border-box;
+    padding: 10px;}
+
+.text{text-decoration: none;
+       font-size: 20px;
+       color:black ;
+    }
+
+.child{display: flex;
+       gap: 30px;}
