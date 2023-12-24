@@ -92,3 +92,23 @@ text-align: center;
     top: 100px;
     left: 475px;
     text-align: center;}
+
+.team{width: 100%;
+    align-items: center;}
+
+.graphs{position: relative;}
+
+.content{width: 280px;
+    height: 100px;
+    background-color: white;
+    position: absolute;
+    bottom: 100px;
+    right: 45px;
+    text-align: center;}
+
+.main4{    width: 80%;
+    height: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+   gap: 60px;}
