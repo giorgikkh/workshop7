@@ -94,7 +94,9 @@ text-align: center;
     text-align: center;}
 
 .team{width: 100%;
-    align-items: center;}
+    align-items: center;
+   justify-content: center;
+    padding-left: 500px;}
 
 .graphs{position: relative;}
 
@@ -112,3 +114,8 @@ text-align: center;
     display: flex;
     flex-wrap: wrap;
    gap: 60px;}
+
+   .team2{width: 100%;
+    align-items: center;
+   justify-content: center;
+    padding-left: 75px;}
